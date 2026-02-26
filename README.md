@@ -35,13 +35,13 @@
 <div align="center">
 
 **Programming Languages**:  
-<img src="https://skillicons.dev/icons?i=cpp,cs,c,python,java,js&php" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,c,python,java,js" />
 
 **Game Engines & Frameworks**:  
-<img src="https://skillicons.dev/icons?i=unreal,godot,unity&react" />
+<img src="https://skillicons.dev/icons?i=unreal,godot,unity,react" />
 
 **Hardware & Tools**:  
-<img src="https://skillicons.dev/icons?i=docker,git,vscode,linux&windows" />
+<img src="https://skillicons.dev/icons?i=docker,git,vscode,linux,windows" />
 
 </div>
 
