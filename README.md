@@ -9,7 +9,6 @@ Soy un apasionado de la **Ingeniería de Software** de Sucre, Bolivia 🇧🇴. 
 
 - 🔭 **Proyecto actual:** Entrenando un agente de IA con *Reinforcement Learning* para jugar Battle City.
 - 🎮 **Hobbies:** Fanático de los juegos retro, la emulación y el universo de *Hollow Knight*.
-- 📚 **Intereses:** Me encanta el manga, la saga de Harry Potter y el rock de **Pink Floyd**.
 - 🛠️ **Hardware:** Programando entre una Lenovo Legion 5 y una Quipus Kuaa con Linux.
 
 ---
@@ -26,21 +25,8 @@ Soy un apasionado de la **Ingeniería de Software** de Sucre, Bolivia 🇧🇴. 
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🕹️ Proyectos Destacados
 1. **Battle City AI:** Entrenamiento de agentes mediante aprendizaje por refuerzo.
 2. **Bomberman Remake:** Desarrollo en 3D utilizando Unreal Engine.
-3. **Calculadora de Complejos:** Una implementación robusta en JavaScript.
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_AQUÍ&label=Perfil%20Visto&color=0e75b6&style=flat" />
-</p>
