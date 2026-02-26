@@ -6,12 +6,19 @@
 </div>
 
 
-### 💫 Sobre mí
-Soy un apasionado de la **Ingeniería de Software** de Sucre, Bolivia 🇧🇴. Actualmente curso mis estudios en la **USFX** y tengo experiencia como auxiliar de docencia, lo que me ha permitido fortalecer mis bases técnicas y mi capacidad para explicar conceptos complejos.
+🙋‍♂️ Sobre mí
 
-- 🔭 **Proyecto actual:** Entrenando un agente de IA con *Reinforcement Learning* para jugar Battle City.
-- 🎮 **Hobbies:** Fanático de los juegos retro, la emulación y el universo de *Hollow Knight*.
-- 🛠️ **Hardware:** Programando entre una Lenovo Legion 5 y una Quipus Kuaa con Linux.
+    - 🎓 Actualmente soy estudiante de Ingeniería de Software en la  Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca (USFX).
+
+    - 🏫 Me desempeño como Auxiliar de Docencia en la Facultad de Tecnología, apoyando en la formación de futuros ingenieros.
+
+    - 🌱 Estoy profundizando mis conocimientos en Inteligencia Artificial, específicamente en Reinforcement Learning y desarrollo con Unreal Engine.
+
+    - 🤖 Mi proyecto estrella actual es entrenar un agente inteligente para dominar el juego Battle City.
+
+    - 🎮 Cuando no estoy programando, me encontrarás explorando el mundo de Hollow Knight, leyendo manga o escuchando a Pink Floyd.
+
+    - ⚡ Dato curioso: Soy un entusiasta de la emulación y los videojuegos retro; siempre busco la forma de revivir los clásicos en mi Quipus Kuaa con Linux.
 
 ---
 
