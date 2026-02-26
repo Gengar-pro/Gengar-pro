@@ -6,13 +6,14 @@
     <td width="60%">
       <h2>🙋‍♂️ Sobre mí</h2>
       <ul>
-        <li>🎓 Estudiante de <b>Ingeniería de Software</b> en la <b>USFX</b>.</li>
-        <li>🏫 <b>Auxiliar de Docencia</b> en la Facultad de Tecnología.</li>
-        <li>🌱 Especializándome en <b>Inteligencia Artificial</b> (Reinforcement Learning).</li>
-        <li>🤖 Entrenando un agente inteligente para <b>Battle City</b>.</li>
-        <li>🎮 Fan de <b>Hollow Knight</b>, el manga y <b>Pink Floyd</b>.</li>
-        <li>⚡ Entusiasta de la emulación y el retro-gaming en <b>Linux</b>.</li>
-      </ul>
+  <li>🎓 <b>Formación Académica:</b> Actualmente cursando la carrera de <b>Ingeniería de Software</b> en la <i>Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca (USFX)</i>, enfocado en el desarrollo de soluciones escalables y eficientes.</li>
+  <li>🏫 <b>Experiencia Académica:</b> Me desempeño como <b>Auxiliar de Docencia</b> en la Facultad de Tecnología, donde comparto conocimientos técnicos y ayudo a otros estudiantes a dominar los fundamentos de la ingeniería.</li>
+  <li>🌱 <b>Especialización en IA:</b> Profundamente interesado en la Inteligencia Artificial, específicamente en el <b>Aprendizaje por Refuerzo (Reinforcement Learning)</b>. Mi proyecto principal actual consiste en entrenar un agente capaz de jugar de forma autónoma al clásico <i>Battle City</i>.</li>
+  <li>💻 <b>Entornos de Desarrollo:</b> Manejo un ecosistema diverso de hardware, optimizando flujos de trabajo en una <b>Lenovo Legion 5</b> para tareas pesadas y una <b>Quipus Kuaa</b> con una distribución de <b>Linux</b> ligera para desarrollo ágil y movilidad.</li>
+  <li>🛠️ <b>Game Dev & Software:</b> Experiencia creando entornos 3D en <b>Unreal Engine</b> (como mi prototipo de <i>Bomberman</i>) y desarrollando herramientas lógicas como calculadoras de números complejos en JavaScript.</li>
+  <li>🎮 <b>Cultura Geek:</b> Fuera del código, soy un gran seguidor del manga, la saga de <i>Harry Potter</i> y la complejidad de <i>Mushoku Tensei</i>. En videojuegos, mi meta actual es completar los desafíos de <b>Hollow Knight</b>.</li>
+  <li>🎵 <b>Inspiración:</b> Mi banda sonora favorita para programar siempre incluye los paisajes sonoros de <b>Pink Floyd</b>.</li>
+</ul>
     </td>
     <td width="40%">
       <div align="right">
