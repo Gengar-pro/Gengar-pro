@@ -32,18 +32,18 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
+<div align="center">
+
 **Programming Languages**:  
-<img src="https://skillicons.dev/icons?i=cpp,cs,c,python,java,js,php,kotlin,dart,go,rust,ts,swift,ruby,scala,lua&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,c,python,java,js,php&theme=dark" />
 
 **Game Engines & Frameworks**:  
-<img src="https://skillicons.dev/icons?i=unreal,godot,flutter,unity,react,nodejs,vue,angular&theme=dark" />
+<img src="https://skillicons.dev/icons?i=unreal,godot,unity,react&theme=dark" />
 
 **Hardware & Tools**:  
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,docker,git,vscode,linux,windows,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,vscode,linux,windowse&theme=dark" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150">
-
-
+</div>
 
 <hr>
 
