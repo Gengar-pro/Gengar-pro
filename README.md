@@ -32,29 +32,18 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
-#### 🌐 Desarrollo Web & IA
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,jupyter,mysql&theme=dark" />
-  <img src="https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab&logoColor=F9AB00" height="48" />
-</p>
+**Programming Languages**:  
+<img src="https://skillicons.dev/icons?i=cpp,cs,c,python,java,js,php,kotlin,dart,go,rust,ts,swift,ruby,scala,lua&theme=dark" />
 
-#### ⚙️ Sistemas & Game Engines
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,unreal,linux,cloud&theme=dark" />
-</p>
+**Game Engines & Frameworks**:  
+<img src="https://skillicons.dev/icons?i=unreal,godot,flutter,unity,react,nodejs,vue,angular&theme=dark" />
 
-#### 📡 Redes de Datos & Infraestructura
-<p align="left">
-  <img src="https://img.shields.io/badge/-Cisco%20Networking-333333?style=flat&logo=cisco&logoColor=1BA0D7" height="48" />
-  <img src="https://img.shields.io/badge/-Switches%20&%20Routers-333333?style=flat&logo=databricks&logoColor=238636" height="48" />
-</p>
+**Hardware & Tools**:  
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,docker,git,vscode,linux,windows,firebase&theme=dark" />
 
-#### 💻 Hardware de Trabajo
-<p align="left">
-  <img src="https://img.shields.io/badge/-Lenovo%20Legion-238636?style=flat&logo=lenovo&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-Dell%20Inspiron-238636?style=flat&logo=dell&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/-Quipus%20Kuaa-238636?style=flat&logo=linux&logoColor=white" height="35" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150">
+
+
 
 <hr>
 
