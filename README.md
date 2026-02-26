@@ -30,37 +30,6 @@
 
 <hr>
 
-¡Claro que sí, Luis! He unificado todo el contenido que hemos trabajado para que tu perfil de GitHub se vea impecable, organizado y con esa armonía en color verde que querías.
-
-Aquí tienes el código completo para tu README.md:
-Markdown
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,32&height=100&section=header&text=Legion%20%7C%20Dell%20%7C%20Kuaa&fontSize=25&fontColor=FFFFFF" />
-</p>
-
-<table>
-  <tr>
-    <td width="60%">
-      <h2>🙋‍♂️ Sobre mí</h2>
-      <ul>
-        <li>🎓 <b>Formación Académica:</b> Estudiante de <b>Ingeniería de Software</b> en la <i>USFX</i>, enfocado en soluciones escalables.</li>
-        <li>🏫 <b>Experiencia Académica:</b> <b>Auxiliar de Docencia</b> en la Facultad de Tecnología.</li>
-        <li>🌱 <b>Especialización en IA:</b> Interesado en <b>Reinforcement Learning</b>. Entrenando un agente para <i>Battle City</i>.</li>
-        <li>💻 <b>Entornos de Desarrollo:</b> Uso una <b>Lenovo Legion 5</b> (potencia), una <b>Dell Inspiron 15</b> (versatilidad) y una <b>Quipus Kuaa</b> con <b>Linux</b>.</li>
-        <li>🛠️ <b>Game Dev:</b> Creador de entornos en <b>Unreal Engine</b> y herramientas en JavaScript.</li>
-        <li>🎮 <b>Cultura Geek:</b> Fan de <i>Hollow Knight</i>, <i>Mushoku Tensei</i> y el universo de Harry Potter.</li>
-        <li>🎵 <b>Inspiración:</b> Programando siempre al ritmo de <b>Pink Floyd</b>.</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzRndmZ3ZzRndmZ3ZzRndmZ3ZzRndmZ3ZzRndmZ3ZzRndmZ3ZzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jzyNh6/giphy.gif" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
