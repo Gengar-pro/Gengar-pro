@@ -15,9 +15,9 @@
   <li>🎵 <b>Inspiración:</b> Mi banda sonora favorita para programar siempre incluye los paisajes sonoros de <b>Pink Floyd</b>.</li>
 </ul>
     </td>
-    <td width="40%">
+    <td width="50%">
       <div align="right">
-  <img src="https://camo.githubusercontent.com/34d65f972316f6bd1f327e48b00d632ff33a28c6f14f978cc24d6abe4d12db66/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66322f37342f36612f66323734366165313737613566346263623539636630386338643136346231332e676966" width="400">
+  <img src="https://camo.githubusercontent.com/34d65f972316f6bd1f327e48b00d632ff33a28c6f14f978cc24d6abe4d12db66/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66322f37342f36612f66323734366165313737613566346263623539636630386338643136346231332e676966" width="400" heigh=400>
 </div>
     </td>
   </tr>
