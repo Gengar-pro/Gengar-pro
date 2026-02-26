@@ -1,8 +1,16 @@
 # ¡Hola! Soy Luis 👋 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Software%20Engineer%20Student&fontSize=50" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=🚀+CÓDIGO+OBSESSIVO+DETECTADO;⚡+SISTEMAS+NEURALES+ACTIVOS;🎮+CREANDO+REALIDADES+DIGITALES;💻+ASUS+ROG+STRIX+POWERED" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=ROG%20STRIX%20GAMING&fontSize=20&fontColor=FF6B35" />
+</div>
 
 ### 💫 Sobre mí
 Soy un apasionado de la **Ingeniería de Software** de Sucre, Bolivia 🇧🇴. Actualmente curso mis estudios en la **USFX** y tengo experiencia como auxiliar de docencia, lo que me ha permitido fortalecer mis bases técnicas y mi capacidad para explicar conceptos complejos.
