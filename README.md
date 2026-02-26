@@ -5,21 +5,26 @@
   <img src="https://camo.githubusercontent.com/34d65f972316f6bd1f327e48b00d632ff33a28c6f14f978cc24d6abe4d12db66/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66322f37342f36612f66323734366165313737613566346263623539636630386338643136346231332e676966" width="300">
 </div>
 
+---
 
-🙋‍♂️ Sobre mí
-
-    - 🎓 Actualmente soy estudiante de Ingeniería de Software en la  Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca (USFX).
-
-    - 🏫 Me desempeño como Auxiliar de Docencia en la Facultad de Tecnología, apoyando en la formación de futuros ingenieros.
-
-    - 🌱 Estoy profundizando mis conocimientos en Inteligencia Artificial, específicamente en Reinforcement Learning y desarrollo con Unreal Engine.
-
-    - 🤖 Mi proyecto estrella actual es entrenar un agente inteligente para dominar el juego Battle City.
-
-    - 🎮 Cuando no estoy programando, me encontrarás explorando el mundo de Hollow Knight, leyendo manga o escuchando a Pink Floyd.
-
-    - ⚡ Dato curioso: Soy un entusiasta de la emulación y los videojuegos retro; siempre busco la forma de revivir los clásicos en mi Quipus Kuaa con Linux.
-
+<table>
+  <tr>
+    <td width="60%">
+      <h2>🙋‍♂️ Sobre mí</h2>
+      <ul>
+        <li>🎓 Estudiante de <b>Ingeniería de Software</b> en la <b>USFX</b>.</li>
+        <li>🏫 <b>Auxiliar de Docencia</b> en la Facultad de Tecnología.</li>
+        <li>🌱 Especializándome en <b>Inteligencia Artificial</b> (Reinforcement Learning).</li>
+        <li>🤖 Entrenando un agente inteligente para <b>Battle City</b>.</li>
+        <li>🎮 Fan de <b>Hollow Knight</b>, el manga y <b>Pink Floyd</b>.</li>
+        <li>⚡ Entusiasta de la emulación y el retro-gaming en <b>Linux</b>.</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzRndmZ3ZzRndmZ3ZzRndmZ3ZzRndmZ3ZzRndmZ3ZzRndmZ3ZzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jzyNh6/giphy.gif" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🛠️ Tecnologías y Herramientas
