@@ -16,8 +16,8 @@
   <li>🎓 <b>Formación Académica:</b> Actualmente cursando la carrera de <b>Ingeniería en Ciencias de la Computación</b> en la <i>Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca (USFX)</i>, enfocado en el desarrollo de soluciones escalables y eficientes.</li>
   <li>🏫 <b>Experiencia Académica:</b> Me desempeño como <b>Auxiliar de Docencia</b> en la Facultad de Tecnología, donde comparto conocimientos técnicos y ayudo a otros estudiantes a dominar los fundamentos de la ingeniería.</li>
   <li>🌱 <b>Especialización en IA:</b> Profundamente interesado en la Inteligencia Artificial, específicamente en el <b>Aprendizaje por Refuerzo (Reinforcement Learning)</b>. Mi proyecto principal actual consiste en entrenar un agente capaz de jugar de forma autónoma al clásico <i>Battle City</i>.</li>
-  <li>💻 <b>Entornos de Desarrollo:</b> Manejo un ecosistema diverso de hardware para diferentes propósitos: una <b>Lenovo Legion 5</b> para renderizado y tareas pesadas, una <b>Dell Inspiron 15</b> como estación de trabajo versátil, y una <b>Quipus Kuaa</b> optimizada con <b>Linux</b> para máxima portabilidad y desarrollo ágil.</li>
-  <li>🎮 En videojuegos, mi meta actual es completar los desafíos de <b>Hollow Knight</b>.</li>
+  <li>💻 <b>Entornos de Desarrollo:</b> Manejo un ecosistema diverso de hardware para diferentes propósitos: una <b>Lenovo Legion 5</b> para renderizado y tareas pesadas, una <b>Dell Inspiron</b> como estación de trabajo versátil, y una <b>Quipus Kuaa</b> optimizada con <b>Linux</b> para máxima portabilidad y desarrollo ágil.</li>
+ 
 </ul>
     </td>
     <td width="40%">
@@ -30,13 +30,55 @@
 
 <hr>
 
+¡Claro que sí, Luis! He unificado todo el contenido que hemos trabajado para que tu perfil de GitHub se vea impecable, organizado y con esa armonía en color verde que querías.
+
+Aquí tienes el código completo para tu README.md:
+Markdown
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,32&height=100&section=header&text=Legion%20%7C%20Dell%20%7C%20Kuaa&fontSize=25&fontColor=FFFFFF" />
+</p>
+
+<table>
+  <tr>
+    <td width="60%">
+      <h2>🙋‍♂️ Sobre mí</h2>
+      <ul>
+        <li>🎓 <b>Formación Académica:</b> Estudiante de <b>Ingeniería de Software</b> en la <i>USFX</i>, enfocado en soluciones escalables.</li>
+        <li>🏫 <b>Experiencia Académica:</b> <b>Auxiliar de Docencia</b> en la Facultad de Tecnología.</li>
+        <li>🌱 <b>Especialización en IA:</b> Interesado en <b>Reinforcement Learning</b>. Entrenando un agente para <i>Battle City</i>.</li>
+        <li>💻 <b>Entornos de Desarrollo:</b> Uso una <b>Lenovo Legion 5</b> (potencia), una <b>Dell Inspiron 15</b> (versatilidad) y una <b>Quipus Kuaa</b> con <b>Linux</b>.</li>
+        <li>🛠️ <b>Game Dev:</b> Creador de entornos en <b>Unreal Engine</b> y herramientas en JavaScript.</li>
+        <li>🎮 <b>Cultura Geek:</b> Fan de <i>Hollow Knight</i>, <i>Mushoku Tensei</i> y el universo de Harry Potter.</li>
+        <li>🎵 <b>Inspiración:</b> Programando siempre al ritmo de <b>Pink Floyd</b>.</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzRndmZ3ZzRndmZ3ZzRndmZ3ZzRndmZ3ZzRndmZ3ZzRndmZ3ZzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jzyNh6/giphy.gif" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-238636?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-238636?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-238636?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-238636?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-238636?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-4E9A06?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-4E9A06?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-4E9A06?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-4E9A06?style=flat-square&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4E9A06?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Dev-4E9A06?style=flat-square&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redes_de_Datos-4E9A06?style=flat-square&logo=cisco&logoColor=white" />
 </p>
 
 <hr>
