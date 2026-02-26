@@ -8,9 +8,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=ROG%20STRIX%20GAMING&fontSize=20&fontColor=FF6B35" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=LEGION&section=header&reversal=true&textBg=false&fontSize=60&fontColor=26DE4E&stroke=26DE4E&descAlign=100&descAlignY=100" />
+</p>
 
 ### 💫 Sobre mí
 Soy un apasionado de la **Ingeniería de Software** de Sucre, Bolivia 🇧🇴. Actualmente curso mis estudios en la **USFX** y tengo experiencia como auxiliar de docencia, lo que me ha permitido fortalecer mis bases técnicas y mi capacidad para explicar conceptos complejos.
