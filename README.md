@@ -32,22 +32,28 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
+#### 🌐 Desarrollo Web & IA
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-238636?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-238636?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-238636?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-238636?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-238636?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,jupyter,mysql&theme=dark" />
+  <img src="https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab&logoColor=F9AB00" height="48" />
 </p>
 
+#### ⚙️ Sistemas & Game Engines
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-4E9A06?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-4E9A06?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-4E9A06?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Colab-4E9A06?style=flat-square&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4E9A06?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Dev-4E9A06?style=flat-square&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redes_de_Datos-4E9A06?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,unreal,linux,cloud&theme=dark" />
+</p>
+
+#### 📡 Redes de Datos & Infraestructura
+<p align="left">
+  <img src="https://img.shields.io/badge/-Cisco%20Networking-333333?style=flat&logo=cisco&logoColor=1BA0D7" height="48" />
+  <img src="https://img.shields.io/badge/-Switches%20&%20Routers-333333?style=flat&logo=databricks&logoColor=238636" height="48" />
+</p>
+
+#### 💻 Hardware de Trabajo
+<p align="left">
+  <img src="https://img.shields.io/badge/-Lenovo%20Legion-238636?style=flat&logo=lenovo&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/-Dell%20Inspiron-238636?style=flat&logo=dell&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/-Quipus%20Kuaa-238636?style=flat&logo=linux&logoColor=white" height="35" />
 </p>
 
 <hr>
